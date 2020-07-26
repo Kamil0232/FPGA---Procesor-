@@ -1,0 +1,14 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/Users/Kamil0232/Procesor_test/Procesor_test.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+C:/Users/Kamil0232/Procesor_test/Procesor_test.srcs/sim_1/new/tb_processor.v,1591382901,verilog,,,,tb_processor,,,,,,,,
+C:/Users/Kamil0232/Procesor_test/Procesor_test.srcs/sources_1/new/alu.v,1591382509,verilog,,C:/Users/Kamil0232/Procesor_test/Procesor_test.srcs/sources_1/new/d_mem.v,,alu,,,,,,,,
+C:/Users/Kamil0232/Procesor_test/Procesor_test.srcs/sources_1/new/d_mem.v,1591382538,verilog,,C:/Users/Kamil0232/Procesor_test/Procesor_test.srcs/sources_1/new/decoder.v,,d_mem,,,,,,,,
+C:/Users/Kamil0232/Procesor_test/Procesor_test.srcs/sources_1/new/decoder.v,1591382567,verilog,,C:/Users/Kamil0232/Procesor_test/Procesor_test.srcs/sources_1/new/i_mem.v,,decoder,,,,,,,,
+C:/Users/Kamil0232/Procesor_test/Procesor_test.srcs/sources_1/new/i_mem.v,1591382593,verilog,,C:/Users/Kamil0232/Procesor_test/Procesor_test.srcs/sources_1/new/jump.v,,i_mem,,,,,,,,
+C:/Users/Kamil0232/Procesor_test/Procesor_test.srcs/sources_1/new/jump.v,1591385515,verilog,,C:/Users/Kamil0232/Procesor_test/Procesor_test.srcs/sources_1/new/main.v,,jump,,,,,,,,
+C:/Users/Kamil0232/Procesor_test/Procesor_test.srcs/sources_1/new/main.v,1591387559,verilog,,C:/Users/Kamil0232/Procesor_test/Procesor_test.srcs/sources_1/new/muxs.v,,main,,,,,,,,
+C:/Users/Kamil0232/Procesor_test/Procesor_test.srcs/sources_1/new/muxs.v,1591382690,verilog,,C:/Users/Kamil0232/Procesor_test/Procesor_test.srcs/sources_1/new/register.v,,alu_mux;imm_mux;pc_mux;rd_mux;rx_mux;ry_mux,,,,,,,,
+C:/Users/Kamil0232/Procesor_test/Procesor_test.srcs/sources_1/new/register.v,1591382729,verilog,,C:/Users/Kamil0232/Procesor_test/Procesor_test.srcs/sim_1/new/tb_processor.v,,register,,,,,,,,
